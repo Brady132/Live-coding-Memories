@@ -1,0 +1,20 @@
+@media (max-width: 1024px){
+    .contain-botm{
+        padding: 0 50px;
+    }
+}
+
+@media (max-width: 768px){
+    .big-title{
+        font-size: 30px;
+    }
+
+    .sm-title{
+        font-size: 20px;
+    }
+
+    .big-circle{
+        width: 150px;
+        height: 150px;
+    }
+}
